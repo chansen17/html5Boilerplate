@@ -1,6 +1,6 @@
 # html5Boilerplate
 
-Simple CLI project to get a basic website structure ap and running quickly
+Simple CLI project to get a basic website structure up and running quickly
 
 Simple steps: 
 
